@@ -1,0 +1,14 @@
+C:\Users\MIRANDA\Desktop\SusQuestion\FunnyQuestionsApp\bin\Debug\net8.0-windows\FunnyQuestionsApp.exe
+C:\Users\MIRANDA\Desktop\SusQuestion\FunnyQuestionsApp\bin\Debug\net8.0-windows\FunnyQuestionsApp.deps.json
+C:\Users\MIRANDA\Desktop\SusQuestion\FunnyQuestionsApp\bin\Debug\net8.0-windows\FunnyQuestionsApp.runtimeconfig.json
+C:\Users\MIRANDA\Desktop\SusQuestion\FunnyQuestionsApp\bin\Debug\net8.0-windows\FunnyQuestionsApp.dll
+C:\Users\MIRANDA\Desktop\SusQuestion\FunnyQuestionsApp\bin\Debug\net8.0-windows\FunnyQuestionsApp.pdb
+C:\Users\MIRANDA\Desktop\SusQuestion\FunnyQuestionsApp\obj\Debug\net8.0-windows\FunnyQuestionsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIRANDA\Desktop\SusQuestion\FunnyQuestionsApp\obj\Debug\net8.0-windows\FunnyQuestionsApp.AssemblyInfoInputs.cache
+C:\Users\MIRANDA\Desktop\SusQuestion\FunnyQuestionsApp\obj\Debug\net8.0-windows\FunnyQuestionsApp.AssemblyInfo.cs
+C:\Users\MIRANDA\Desktop\SusQuestion\FunnyQuestionsApp\obj\Debug\net8.0-windows\FunnyQuestionsApp.csproj.CoreCompileInputs.cache
+C:\Users\MIRANDA\Desktop\SusQuestion\FunnyQuestionsApp\obj\Debug\net8.0-windows\FunnyQuestionsApp.dll
+C:\Users\MIRANDA\Desktop\SusQuestion\FunnyQuestionsApp\obj\Debug\net8.0-windows\refint\FunnyQuestionsApp.dll
+C:\Users\MIRANDA\Desktop\SusQuestion\FunnyQuestionsApp\obj\Debug\net8.0-windows\FunnyQuestionsApp.pdb
+C:\Users\MIRANDA\Desktop\SusQuestion\FunnyQuestionsApp\obj\Debug\net8.0-windows\FunnyQuestionsApp.genruntimeconfig.cache
+C:\Users\MIRANDA\Desktop\SusQuestion\FunnyQuestionsApp\obj\Debug\net8.0-windows\ref\FunnyQuestionsApp.dll
